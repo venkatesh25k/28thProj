@@ -1,0 +1,7 @@
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\bin\Debug\Integr.exe.config
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\bin\Debug\Integr.exe
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\bin\Debug\Integr.pdb
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\obj\Debug\Integr.csprojAssemblyReference.cache
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\obj\Debug\Integr.csproj.CoreCompileInputs.cache
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\obj\Debug\Integr.exe
+C:\Users\VenkateshK\Desktop\AzuPract\Integr\Integr\obj\Debug\Integr.pdb
